@@ -1,6 +1,6 @@
-# RailsCasts Episode #53: Exception Handling (revised)
+# RailsCasts Episode #53: Handling Exceptions (revised)
 
-http://railscasts.com/episodes/53-exception-handling-revised
+http://railscasts.com/episodes/53-handling-exceptions-revised
 
 Requires Ruby 1.9.2 or higher.
 
